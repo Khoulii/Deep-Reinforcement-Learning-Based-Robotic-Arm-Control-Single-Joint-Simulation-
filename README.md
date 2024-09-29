@@ -23,7 +23,7 @@ The simple rule based system revealed challenges in effectively controlling the 
 - An average test reward score of -1624.35 indicated suboptimal performance.
 - The episodic reward plot exhibited a fluctuating pattern, showing no clear improvement trend.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/466a8537-a24d-4778-8db0-9c55805f1b6a" width="400">
+  <img src="https://github.com/user-attachments/assets/466a8537-a24d-4778-8db0-9c55805f1b6a" width="500">
 </p>
 
 During testing over 500 episodes on the DQN algorithm, the following observations were made:
@@ -31,9 +31,9 @@ During testing over 500 episodes on the DQN algorithm, the following observation
 - Stabilization around episodes 200 to 300, but the agent performed below average.
 - The learning process was indicated by a downward trend in the loss per training step and a balanced exploration-exploitation trade-off.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/519a80e0-753d-49fe-85de-d17fa3da2f50" width="400">
-  <img src="https://github.com/user-attachments/assets/ed0371b1-f830-4a1d-9786-62ea15bc2f19" width="400">
-  <img src="https://github.com/user-attachments/assets/d02cb7f6-412d-40ab-ba91-b8bb9a8b4ea0" width="400">
+  <img src="https://github.com/user-attachments/assets/519a80e0-753d-49fe-85de-d17fa3da2f50" width="300">
+  <img src="https://github.com/user-attachments/assets/ed0371b1-f830-4a1d-9786-62ea15bc2f19" width="300">
+  <img src="https://github.com/user-attachments/assets/d02cb7f6-412d-40ab-ba91-b8bb9a8b4ea0" width="300">
 </p>
 
 The DDPG approach showed significant improvement:
@@ -41,9 +41,9 @@ The DDPG approach showed significant improvement:
 - Average score of -156.3 demonstrated a huge improvement compared to both DQN and the rule-based agent.
 - Decreasing actor and critic losses indicated improvements in action selection and value estimation.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b2550808-f258-444f-bc88-73f03ce3f636" width="400">
-  <img src="https://github.com/user-attachments/assets/f2272848-fc2d-405f-8248-b2522aa867d0" width="400">
-  <img src="https://github.com/user-attachments/assets/a57389f0-bd66-4619-a441-f9b4dceb6d36" width="400">
+  <img src="https://github.com/user-attachments/assets/b2550808-f258-444f-bc88-73f03ce3f636" width="300">
+  <img src="https://github.com/user-attachments/assets/f2272848-fc2d-405f-8248-b2522aa867d0" width="300">
+  <img src="https://github.com/user-attachments/assets/a57389f0-bd66-4619-a441-f9b4dceb6d36" width="300">
 </p>
 
 The SAC approach yielded similar enhancements:
@@ -51,9 +51,9 @@ The SAC approach yielded similar enhancements:
 - Average score of -213.2 showed significant improvement compared to previous methods.
 - Stable alpha loss indicated a good balance between exploration and exploitation, with decreasing Q1 and Q2 losses demonstrating better accuracy in critic estimations.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/40c35512-6a5e-4a77-ae24-eaa6d2535863" width="400">
-  <img src="https://github.com/user-attachments/assets/9aaa70b8-2766-4ee0-872e-feb23608c861" width="400">
-  <img src="https://github.com/user-attachments/assets/8a0d9e82-1632-4c19-8a40-f4896ad827de" width="400">
+  <img src="https://github.com/user-attachments/assets/40c35512-6a5e-4a77-ae24-eaa6d2535863" width="300">
+  <img src="https://github.com/user-attachments/assets/9aaa70b8-2766-4ee0-872e-feb23608c861" width="300">
+  <img src="https://github.com/user-attachments/assets/8a0d9e82-1632-4c19-8a40-f4896ad827de" width="300">
 </p>
 
 ## Conclusion
