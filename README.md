@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d7b2eec3-89f7-4bcc-8728-9d370f74bad2)# Deep-Reinforcement Learning Based Robotic Arm-Control: A Single Joint Simulation
+# Deep-Reinforcement Learning Based Robotic Arm-Control: A Single Joint Simulation
 
 ## Problem Statement
 The project focuses on controlling a robotic arm, particularly a one-degree-of-freedom joint, to perform the inverted pendulum swing-up task. The goal is to manipulate the joint effectively by applying torque to swing the pendulum into an upright position. This classic control problem involves learning a policy that allows the agent (robotic arm) to balance the pendulum, with continuous action and observation spaces, and rewards based on the angular position, velocity, and applied torque. Also I will attempt using a bottom-up approach based on Deep Q-Networks (DQN).
