@@ -53,7 +53,7 @@ The SAC approach yielded similar enhancements:
 <p align="center">
   <img src="https://github.com/user-attachments/assets/40c35512-6a5e-4a77-ae24-eaa6d2535863" width="400">
   <img src="https://github.com/user-attachments/assets/9aaa70b8-2766-4ee0-872e-feb23608c861" width="400">
-  <img src="https://github.com/user-attachments/assets/78827898-44ed-470a-a009-6cf60812006" width="400">
+  <img src="https://github.com/user-attachments/assets/8a0d9e82-1632-4c19-8a40-f4896ad827de" width="400">
 </p>
 
 ## Conclusion
