@@ -1,1 +1,1 @@
-# Deep-Reinforcement-Learning-Based-Robotic-Arm-Control: Single-Joint-Simulation
+# Deep-Reinforcement Learning Based Robotic Arm-Control: A Single Joint Simulation
